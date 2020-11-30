@@ -1,2 +1,2 @@
 # Borusan
-Borusan Fiori Uygulamaları
+Borusan Sat Fiori Uygulaması
